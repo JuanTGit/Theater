@@ -1,0 +1,8 @@
+.FS{
+    position: absolute;
+    color: white;
+    font-size: 90px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
